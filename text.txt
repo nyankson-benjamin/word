@@ -1,0 +1,9 @@
+step1 git init-----initialize  /// initialize a git 
+step2 git status ----check the status 
+step3 git add fileName.extension ----adds a certain file to the repo
+step4. git add . ----- adds all the files to the git repo
+
+save it to the repo
+step5. git commit -m "Describe what you added"/// m means message
+
+      
