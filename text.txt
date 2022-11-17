@@ -6,10 +6,13 @@ step4. git add . ----- adds all the files to the git repo
 save it to the repo
 step5. git commit -m "Describe what you added"/// m means message
 
-//create a new branch
+// push to repo
   git push -u origin <branchName>
 
 create new branch
-   git checkout -b <"branchName">   
+   git checkout -b <"branchName">  
+
+   //switch between branches
+   git checkout <branchName>
 
  
